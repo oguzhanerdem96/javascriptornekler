@@ -13,4 +13,4 @@ for(let j=2 ; j<i  ; j++){
 gosterelicekMetin = gosterelicekMetin + i + " " 
 }
 }
-console.log(gosterelicekMetin);
+console.log(gosterelicekMetin); 
